@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planetario4", "Planetario4\Planetario4.csproj", "{D927053C-2429-47B5-A109-FC89DE18FA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D927053C-2429-47B5-A109-FC89DE18FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D927053C-2429-47B5-A109-FC89DE18FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D927053C-2429-47B5-A109-FC89DE18FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D927053C-2429-47B5-A109-FC89DE18FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512AF615-DF4D-4F10-B92C-74AB9FE7652B}
+	EndGlobalSection
+EndGlobal
